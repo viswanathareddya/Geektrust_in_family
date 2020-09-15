@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="435cb36e-3f27-403a-b1c8-c2307ca4a9aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="023eeae7-911e-4ee4-9878-341c6a928f5f" />
+  <component name="ProjectId" id="1hPl5dSdgzxIUK3K3zL4DUaC4YU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="435cb36e-3f27-403a-b1c8-c2307ca4a9aa" name="Default Changelist" comment="" />
+      <created>1599920425886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599920425886</updated>
+      <workItem from="1599920427158" duration="2767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599921335140">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826@0.0.1536.826" timestamp="1599921335140" />
+    <state x="445" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599922989775">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="445" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.826@0.0.1536.826" timestamp="1599922989775" />
+    <state x="593" y="331" key="Github.CreateGistDialog" timestamp="1599920675894">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="593" y="331" key="Github.CreateGistDialog/0.0.1536.826@0.0.1536.826" timestamp="1599920675894" />
+  </component>
+</project>

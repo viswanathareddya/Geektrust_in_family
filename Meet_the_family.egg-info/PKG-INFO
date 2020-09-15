@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: Meet-the-family
+Version: 0.0.1
+Summary: Creation of Family Tree
+Home-page: UNKNOWN
+Author: viswanath
+Author-email: viswanathareddyattipalli1@gmail.com
+License: UNKNOWN
+Description: Solving th problem of family tree provided by Geektrust.
+        
+        creating solution for adding a child to mother who is existing in the family.
+        
+        Getting the relatives names of corresponding relations for a given member of family
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
